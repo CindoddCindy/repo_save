@@ -1,0 +1,18 @@
+Alur Layout Seller 
+
+1.regis (sudah)
+2.login(sudah)
+3.add data(sudah)
+4.lihat detail add data(on progress)
+5.get notif (lihat detail/accept/cancel)
+6.lihat detail accept (rv)
+7.lihat detail accept (activity)
+8.confirm barang tiba (lewat waktu dan tanggal)
+9.detail confirm tiba
+10.konfirm from customer (status change) +get payment
+11.move to activity (status finish)
+12.lihat detail payment
+13.profile
+14.edit profile
+15.contact us
+
